@@ -2,6 +2,7 @@
 
 namespace ConsoleLAB3
 {
+    //test 
     // Буклет
     class Booklet : PrintedEdition
     {
